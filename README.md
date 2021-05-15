@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Deepak Kumar
+- 👋  I’m Deepak Kumar
 - 🌱 I’m currently learning Data science 
-- 💞️ I’m looking to collaborate on job 
+- 💞️ I’m looking for job 
 - 📫 How to reach me Deepakupkumar9@gmail.com
 💬 Ask me about node js and Data science 
 <!---
