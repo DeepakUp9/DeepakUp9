@@ -1,7 +1,8 @@
-- 👋  I’m Deepak Kumar
+- 👋 Hi, I’m Deepak Kumar
 - 🌱 I’m currently learning Data science 
 - 💞️ I’m looking for job 
 - 📫 How to reach me Deepakupkumar9@gmail.com
+- ✔️ 2021 Goals: To Enhance my Development skills
 - 💬 Ask me about node js and Data science 
 
 <!---
