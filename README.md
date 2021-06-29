@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/deepak-kumar-284948130" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="DeepakUp9" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepak-kumar-284948130/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="DeepakUp9" height="40" width="40" /></a>
 </p>
  
 ---
