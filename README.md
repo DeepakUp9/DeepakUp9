@@ -1,5 +1,5 @@
 
-![Profile views](https://github.com/DeepakUp9) 
+![Profile views](https://gpvc.arturio.dev/DeepakUp9) 
 
 
 - 👋 Hi, I’m Deepak Kumar
