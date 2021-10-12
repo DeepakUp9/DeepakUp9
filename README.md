@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m Deepak Kumar
-- #### Full Stack Develper || MERN Developer
+- #### Full Stack Develper || MERN Stack Developer
 - 🌱 I’m currently learning Data science 
 - 💞️ I’m looking for job 
 - 📫 How to reach me Deepakupkumar9@gmail.com
