@@ -3,11 +3,10 @@
 
 
 - 👋 Hi, I’m Deepak Kumar
-- #### Full Stack Develper || MERN Stack Developer
-- 🌱 I’m currently learning Data science 
+- #### Full Stack Develper || MERN Stack Developer 
 - 💞️ I’m looking for job 
 - 📫 How to reach me Deepakupkumar9@gmail.com
-- ✔️ 2021 Goals: To Enhance my Development skills
+- ✔️ 2022 Goals: To Enhance my Development skills
 - 💬 Ask me about node js and Data science 
 
 
