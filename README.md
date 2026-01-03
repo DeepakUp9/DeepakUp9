@@ -2,8 +2,7 @@
 
 ![Profile Views](https://gpvc.arturio.dev/DeepakUp9)
 
-**Mid-Senior Software Engineer | 4+ yrs Fintech**  
-*Java | Spring Boot | System Design | SDE2 Prep*
+**Senior Software Engineer **  
 
 ## 🛠️ Tech Stack
 <p align="center">
